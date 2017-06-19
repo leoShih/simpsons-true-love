@@ -12,6 +12,7 @@
 		B3BD59651EF7C1320093878E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3BD59631EF7C1320093878E /* Main.storyboard */; };
 		B3BD59671EF7C1320093878E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3BD59661EF7C1320093878E /* Assets.xcassets */; };
 		B3BD596A1EF7C1320093878E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3BD59681EF7C1320093878E /* LaunchScreen.storyboard */; };
+		B3BD59721EF7C18A0093878E /* trueLoveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3BD59711EF7C18A0093878E /* trueLoveViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B3BD59661EF7C1320093878E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B3BD59691EF7C1320093878E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B3BD596B1EF7C1320093878E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B3BD59711EF7C18A0093878E /* trueLoveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = trueLoveViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B3BD595F1EF7C1320093878E /* AppDelegate.swift */,
 				B3BD59611EF7C1320093878E /* ViewController.swift */,
 				B3BD59631EF7C1320093878E /* Main.storyboard */,
+				B3BD59711EF7C18A0093878E /* trueLoveViewController.swift */,
 				B3BD59661EF7C1320093878E /* Assets.xcassets */,
 				B3BD59681EF7C1320093878E /* LaunchScreen.storyboard */,
 				B3BD596B1EF7C1320093878E /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B3BD59721EF7C18A0093878E /* trueLoveViewController.swift in Sources */,
 				B3BD59621EF7C1320093878E /* ViewController.swift in Sources */,
 				B3BD59601EF7C1320093878E /* AppDelegate.swift in Sources */,
 			);
