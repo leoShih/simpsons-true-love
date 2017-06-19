@@ -38,8 +38,7 @@ class trueLoveViewController: UIViewController {
         
       let star = starText.text!
         
-        if star != nil {
-            
+        
             if star == "Virgo" && sportSwitch.isOn == true && genderSeg.selectedSegmentIndex == 1 &&  Int(heightSld.value) == 178
             
             {
@@ -57,8 +56,6 @@ class trueLoveViewController: UIViewController {
             }
             
         }
-        
-    }
     
     
     

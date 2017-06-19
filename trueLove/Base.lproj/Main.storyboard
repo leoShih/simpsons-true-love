@@ -121,7 +121,6 @@
                         <outlet property="genderSeg" destination="hfj-8E-Uig" id="nhn-fZ-DDW"/>
                         <outlet property="heightLbl" destination="qAa-Qb-9kU" id="1ad-3X-lTC"/>
                         <outlet property="heightSld" destination="2UM-Hg-Z4g" id="8ux-1Y-wfV"/>
-                        <outlet property="heightSlider" destination="2UM-Hg-Z4g" id="6Kp-E3-tKr"/>
                         <outlet property="image" destination="mTj-Up-MkV" id="qNf-Qb-f6S"/>
                         <outlet property="sportSwitch" destination="SHf-um-H9A" id="CK8-MU-LB6"/>
                         <outlet property="starText" destination="1XX-t2-hh0" id="nnX-EY-XmW"/>
